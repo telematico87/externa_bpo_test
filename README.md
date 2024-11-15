@@ -27,14 +27,14 @@ git clone https://github.com/telematico87/externa_bpo_test.git
 cd externa_bpo_test
 
 
-### 2. Ejecutar dependencias 
+### 2 Ejecutar Dependencias
 
 Ejecutar Dependencias
 
 ```bash
 composer install
 
-### 2. Ejecutar dependencias 
+### 3. Ejecutar dependencias 
 
 Ejecutar Dependencias
 
