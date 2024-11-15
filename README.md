@@ -112,8 +112,8 @@ Registro de Usuario
 }
 
 ```
-### 2 .Inicio Sesión
-
+### 2 .Inicio Sesión - Autentificación con Token
+ Autentificación con Token
 ```bash
 Registro de Usuario
 
