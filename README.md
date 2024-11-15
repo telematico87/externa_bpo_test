@@ -85,6 +85,9 @@ Route::get('/tasks/{task}/edit', [TaskController::class, 'edit'])->name('tasks.e
 Route::put('/tasks/{task}', [TaskController::class, 'update'])->name('tasks.update'); // Actualizar tarea
 Route::delete('/tasks/{task}', [TaskController::class, 'destroy'])->name('tasks.destroy'); // Eliminar tarea
 
+
+![imagen](https://github.com/user-attachments/assets/e69ae714-32f8-406b-95d0-8815e3ee78bc)
+
 ```
 ## APIS Implementadas
 
